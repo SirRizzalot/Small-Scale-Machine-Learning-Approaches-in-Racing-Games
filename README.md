@@ -20,8 +20,6 @@ The "src" folder contains all the code and gathered datasets involved with the p
 
 All recordings used in our final presentation, as well as a new recording demonstrating the performance of the continuous control agent, are included in the "videos" folder.
 
-![example](https://github.com/SirRizzalot/Small-Scale-Machine-Learning-Approaches-in-Racing-Games/blob/main/videos/replay_control.mp4)
-
 # Execution Instructions
 The following sections detail instructions for running several notable project processes. Before attempting any of the processes, please import "pre_training.ipynb", "standard_training.ipynb", and
 "evaluation.ipynb" into Google Colab.
