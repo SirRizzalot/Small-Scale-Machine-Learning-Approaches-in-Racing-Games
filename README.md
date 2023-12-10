@@ -3,7 +3,7 @@
 This repository houses the code used by Group #2 in our racing game reinforcement learning project.
 
 If you'd like to view sample graphs and sample videos of our various agents, the samples.ipynb notebook can be run through Google Colab.
-This notebook will produce mean rewards, standard deviations, and recordings for a sample control agent, an agent which has only been pre-trained, and a balanced agent which has undergone both pre-training and standard training.
+This notebook will produce mean rewards, standard deviations, and recordings for a control agent, an agent which has only been pre-trained, and a balanced agent which has undergone both pre-training and standard training.
 
 ## Source File Information
 
